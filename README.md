@@ -1,2 +1,2 @@
 # python-challenge
-Repository for Module 3 python challenge
+Repository for Module 3 python challenge. For the PyPoll, I worked with the class TA to help me think about how I needed to structure the inforamtion in the code in order to produce the results needed. I also continually copied chunks of my code to both ChatGPT and the edX Xpert AI Learning Assistant to gain an understanding of why certain unexpected issues were occuring in my code. For example, in he PyPoll challenge, my one variable was set inside a "for" loop resulting in in being inadvertently overwritten, and capturing only the information of the last candidate in the iteration.
